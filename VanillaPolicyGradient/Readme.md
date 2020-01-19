@@ -23,17 +23,21 @@ Train Model
 **Progress of the agent**
 
 **__After 1000 episodes__**
+
 ![](results/1000ep.gif)
 
 
 **__After 2500 episodes__**
+
 ![](results/2500ep.gif)
 
 
 **__After 5000 episodes__**
+
 ![](results/5000ep.gif)
 
 **Rewards Progress through episodes**
+
 ![](results/rewards.png)
 
 **Download Model**
